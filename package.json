@@ -1,0 +1,27 @@
+{
+  "name": "checkjs",
+  "version": "0.0.1",
+  "description": "Fast validation and checking for humans",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vpetkar/checkjs.git"
+  },
+  "keywords": [
+    "validation",
+    "checking",
+    "email",
+    "phone",
+    "numbers",
+    "address"
+  ],
+  "author": "Ved Petkar",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/vpetkar/checkjs/issues"
+  },
+  "homepage": "https://github.com/vpetkar/checkjs#readme"
+}
